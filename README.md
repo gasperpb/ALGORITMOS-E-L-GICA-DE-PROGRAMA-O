@@ -2,10 +2,10 @@
 retirado do site 
 
 
-[daniellaifpb Logica de programação]https://sites.google.com/site/daniellaifpb/academics/algoritmos-e-lgica-de-pprogramao
+[daniellaifpb Logica de programação](https://sites.google.com/site/daniellaifpb/academics/algoritmos-e-lgica-de-pprogramao)
 
 
-[Lista de exercício 01]https://drive.google.com/file/d/0B5Lq7Ab31rWkMS1ENEZqSHRvc2M/view
+[Lista de exercício 01](https://drive.google.com/file/d/0B5Lq7Ab31rWkMS1ENEZqSHRvc2M/view)
 
 
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA PARAÍBA – CAMPUS CAMPINA GRANDE CURSO: SUPERIOR DE TECNOLOGIA EM TELEMÁTICA DISCIPLINA: ALGORITMOS E LÓGICA DE PROGRAMAÇÃO
